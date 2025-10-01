@@ -4,5 +4,9 @@ public class demo1
     {
             system.out.println("main method");
       system.out.println("main ");
-    
+  
+      system.out.println("main method");
+            system.out.println("main ");
+        }
+
   }
